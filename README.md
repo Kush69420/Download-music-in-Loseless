@@ -1,4 +1,4 @@
-#Spotify to Lossless Downloader
+# Spotify to Lossless Downloader
 
 This Python script reads a CSV export of a Spotify playlist and searches for high-quality (Lossless/Hi-Res) versions of the tracks using the Triton API (Tidal).
 
@@ -20,7 +20,7 @@ Python 3.x
 
 A Spotify playlist exported as .csv (e.g., using Exportify or similar tools).
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -33,7 +33,7 @@ Install required libraries:
 pip install -r requirements.txt
 
 
-Usage
+# Usage
 
 Open script.py in a text editor (like VS Code or Notepad).
 
