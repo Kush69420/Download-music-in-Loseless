@@ -41,7 +41,7 @@ Update the CONFIGURATION section at the top of the script to match your local fi
 
 Example Configuration:
 
-# --- CONFIGURATION ---
+# CONFIGURATION 
 CSV_FILE = r"E:\"
 DOWNLOAD_FOLDER = r"E:\"
 SKIPPED_FILE = r"E:\"
