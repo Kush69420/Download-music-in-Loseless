@@ -9,9 +9,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # --- CONFIGURATION ---
-CSV_FILE = r"E:\Spotify playlist\hindi moosic.csv"
-DOWNLOAD_FOLDER = r"E:\Spotify playlist\hindi moosic"
-SKIPPED_FILE = r"E:\Spotify playlist\skipped_songs2.csv"
+CSV_FILE = r"E:\"
+DOWNLOAD_FOLDER = r"E:\"
+SKIPPED_FILE = r"E:\"
 
 # --- XPATHS ---
 SEARCH_BOX_XPATH = '/html/body/div/div[1]/div[2]/main/div/div/div[2]/div[1]/div/div/div[1]/input'
